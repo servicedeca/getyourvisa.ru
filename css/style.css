@@ -6,8 +6,8 @@ padding:0px;
 .st{
     left: 50%;
     top:50%;
-    margin-left: -175px;
-    margin-top: -116px;
+    margin-left: -142px;
+    margin-top: -125px;
     position: absolute;
     opacity: 0.6;
     transition: all 200ms linear;
@@ -19,8 +19,8 @@ padding:0px;
 .st:hover{
     left: 50%;
     top:50%;
-    margin-left: -175px;
-    margin-top: -116px;
+    margin-left: -142px;
+    margin-top: -125px;
     position: absolute;
     opacity: 1;
     transition: all 200ms linear;
